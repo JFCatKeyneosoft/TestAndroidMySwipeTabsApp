@@ -11,7 +11,7 @@ Just create new app for Android device with template :
 ######play with default tab's view 
 
 ######Add continuous integration 
-see https://GitHub.com/JFCatKeyneosoft/TestAndroidMyBarTabsApp/
+see https://GitHub.com/JFCatKeyneosoft/TestAndroidMyFirstApp/
 
 ##Authors
 ![Licence Status](https://img.shields.io/badge/Author-Jean--François%20CONTART-purple.svg)
